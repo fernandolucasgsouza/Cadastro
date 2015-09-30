@@ -1,0 +1,30 @@
+c:\users\fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+c:\users\fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.csprojResolveAssemblyReference.cache
+c:\users\fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+c:\users\fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.Cache
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Fernando\documents\visual studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\bin\Debug\Agenda.mdf
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\bin\Debug\Agenda_log.ldf
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmListContato.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmCadGrupo.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmCadUsuario.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmCadContato.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmAbertura.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmLogin.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmPrincipal.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.frmCadTelefone.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.Migrations.InitialCreate.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.Migrations.AdicionadoUsuario.resources
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro - Cópia\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro - Cópia\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro - Cópia\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\Fernando\Documents\Visual Studio 2013\Projects\Cadastro\Cadastro\obj\Debug\Cadastro.Migrations.addUsuario.resources
