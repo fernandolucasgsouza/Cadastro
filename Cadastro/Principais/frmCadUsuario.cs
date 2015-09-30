@@ -11,7 +11,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Cadastro
-{
+{ 
+    //
     public partial class frmCadUsuario : Form
     {
         public frmCadUsuario()
